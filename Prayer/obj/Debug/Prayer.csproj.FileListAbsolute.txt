@@ -1,0 +1,10 @@
+C:\Users\Someone\source\repos\Prayer\bin\Debug\Prayer.exe.config
+C:\Users\Someone\source\repos\Prayer\bin\Debug\Prayer.exe
+C:\Users\Someone\source\repos\Prayer\bin\Debug\Prayer.pdb
+C:\Users\Someone\source\repos\Prayer\obj\Debug\Prayer.csproj.AssemblyReference.cache
+C:\Users\Someone\source\repos\Prayer\obj\Debug\Prayer.Form1.resources
+C:\Users\Someone\source\repos\Prayer\obj\Debug\Prayer.Properties.Resources.resources
+C:\Users\Someone\source\repos\Prayer\obj\Debug\Prayer.csproj.GenerateResource.cache
+C:\Users\Someone\source\repos\Prayer\obj\Debug\Prayer.csproj.CoreCompileInputs.cache
+C:\Users\Someone\source\repos\Prayer\obj\Debug\Prayer.exe
+C:\Users\Someone\source\repos\Prayer\obj\Debug\Prayer.pdb
